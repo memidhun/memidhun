@@ -1,6 +1,6 @@
 <p align="center"> 
     <a href="#"><img width="40%" height="auto" src="pc.png" height="5px"/> </a>
-  <h1 align="center">Hi👋,I'm Midhun</h1>
+  <h1 align="center">Hi✋,I'm Midhun</h1>
 
 <h3 align="center">I'm a passionate Developer from India.</h3>
 
