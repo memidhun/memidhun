@@ -8,13 +8,13 @@
 
 - 🔐 I’m currently learning **Cybersecurity** & **Machine Learning**
 
-- 💡 I love making projects with **Electronics.** and **CODE**
+- 💡 I love making projects with **Electronics** and **Coding** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Some of my projects are available at **[My Portfolio](https://memidhun.github.io/)**
 
-- 🎹 **I love Music Production**
+- 🎹 **I am also good at Music Production**
 
 ## 🚀 Languages and Tools:
 
