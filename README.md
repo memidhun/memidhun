@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔐 I’m currently learning **Cybersecurity**
+- 🔐 I’m currently learning **Cybersecurity** & **Machine Learning**
 
-- 💡 I love making projects with **Electronics.**
+- 💡 I love making projects with **Electronics.** and **CODE**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
