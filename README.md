@@ -1,34 +1,33 @@
 <p align="center"> 
     <a href="#"><img width="40%" height="auto" src="pc.png" height="5px"/> </a>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Midhun</h1>
-  <h3 align="center">I'm a passionate Developer from India.</h3>
+  <h3 align="center">I'm a passionate Developer + Engineering Student</h3>
 
 ## 🙋‍♂️ About Me
-
+- 💡 I’m an **Electronics and Communication Engineering** Student 
 - 🔐 I’m currently learning **Machine Learning** & **Cybersecurity** 
 
-- 💡 I love making projects with **Electronics** and **Coding** 
+- 🏎️ I love to make projects which includes **Hardware and Software**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Some of my projects are available at **[My Portfolio](https://memidhun.github.io/)**
 
-- 🎹 **I am also good at Music Production**
+- 🎹 I am also good at **Music Production**
 
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-  <a style="padding-right:8px;" href="https://www.arduino.cc/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
+    <a style="padding-right:4px; href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/ ></a>
+    <a style="padding-right:4px; href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+    <a style="padding-right:4px; href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+    <a style="padding-right:4px; href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
+    <a style="padding-right:4px; href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a> 
+    <a style="padding-right:4px; href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
+    <a style="padding-right:4px; href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
-     <a style="padding-right:3px;" href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/></a> 
-      <a style="padding-right:3px;" href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
+      <a style="padding-right:8px;" href="https://www.arduino.cc/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
+     <a style="padding-right:8px;" href=""target="_blank"> <img src="http://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png"/width="45" height="45"></a> 
     </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
