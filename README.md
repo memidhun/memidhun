@@ -33,10 +33,8 @@
 
 <p align="center">
     <a href="https://github.com/memidhun">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Midhun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=memidhun&theme=merko&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Midhun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=memidhun&theme=merko&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-
-</p>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills :</b>
 <p align="center">
 
