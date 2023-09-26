@@ -27,14 +27,18 @@
     <a style="padding-right:4px; href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
     <a style="padding-right:10px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
       <a style="padding-right:8px;" href="https://www.arduino.cc/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
-     <a style="padding-right:12px;" href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png" width="45" height="45"/> </a> 
+     <a style="padding-right:12px;" href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank"> <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png" width="38" height="38"/> </a> 
     </p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
     <a href="https://github.com/memidhun">
-        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Midhun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=memidhun&theme=merko&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Midhun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=memidhun&theme=merko&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+
+</p>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills :</b>
 <p align="center">
 
@@ -101,3 +105,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=memidhun"></a>
 <a href="https://github.com/memidhun?tab=followers"><img src="https://img.shields.io/github/followers/memidhun?style=flat-square&logo=github&color=orange" alt="GitHub Badge"></a>
+
