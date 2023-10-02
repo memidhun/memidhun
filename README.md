@@ -1,7 +1,7 @@
 <p align="center"> 
     <a href="#"><img width="40%" height="auto" src="pc.png" height="5px"/> </a>
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Midhun</h1>
-  <h3 align="center">I'm a passionate Developer + Engineering Student</h3>
+  <h3 align="center">I'm Electronics Engineering student + Passionate Developer + </h3>
 
 ## 🙋‍♂️ About Me
 - 💡 I’m an **Electronics and Communication Engineering** Student 
