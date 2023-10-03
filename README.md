@@ -1,7 +1,7 @@
 
 <p align="center"> 
    <!-- <a href="#"><img width="40%" height="auto" src="pc.png" height="5px"/> </a>-->
-    ![Banner](https://media.licdn.com/dms/image/D5616AQGvwfmCrxHPxw/profile-displaybackgroundimage-shrink_350_1400/0/1696264345595?e=1701907200&v=beta&t=-tSa_GYUFEZEy7RtMwEpE32tzJRlOZ1Qybapm3mlJY8)
+    ![Banner](url(linkdin.png))
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Midhun </h1>
   <h3 align="center">I'm an Electronics Engineering student + a Passionate Developer  </h3>
 
