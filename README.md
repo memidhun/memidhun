@@ -1,7 +1,7 @@
 
 <p align="center"> 
    <!-- <a href="#"><img width="40%" height="auto" src="pc.png" height="5px"/> </a>-->
-    ![Banner](src="linkdin.png")
+    ![Image Banner](./linkdin.png)
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Midhun </h1>
   <h3 align="center">I'm an Electronics Engineering student + a Passionate Developer  </h3>
 
