@@ -2,6 +2,7 @@
 <p align="center"> 
    <!-- <a href="#"><img width="40%" height="auto" src="pc.png" height="5px"/> </a>-->
    <a href="#"><img width="auto" height="auto" src="linkdin.png" /> </a>
+   
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Midhun </h1>
   <h3 align="center">I'm an Electronics Engineering student + a Passionate Developer  </h3>
 
@@ -59,6 +60,7 @@
 <br/>
 
 </p>
+
 <p align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b><u>Skills</p>
 
 - **Languages**:
