@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://memidhun.github.io/)**
+- 👨‍💻 Some of my electronics projects are available at **[My Portfolio](https://memidhun.github.io/)**
 
 - 🎹 I am also good at **Music Production**
 
