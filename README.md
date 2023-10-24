@@ -107,15 +107,15 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats : </b>
-  
+    <b>Note:</b> Top languages is only a metric of the languages my public code consist.
    <a href="https://github.com/memidhun/github-readme-stats"><img align="center" alt="Midhun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=memidhun&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
    
   <a href="https://github.com/memidhun/github-readme-stats"><img align="center" height=200 alt="Midhun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memidhun&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445"/></a>
   
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+
+  ### Fun Fact: I once solved the world's oldest question with a single line of JavaScript 😉
 <!-- wi*quL3fcV -->
 
 ```javascript
