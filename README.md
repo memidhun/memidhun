@@ -84,6 +84,7 @@
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Netlify](https://img.shields.io/badge/Netlify%20-%23FC7.svg?style=for-the-badge&logo=Netlify&logoColor=red)
     ![Hostinger](https://img.shields.io/badge/Hostinger%20-%235FC7.svg?style=for-the-badge&logo=hostinger&logoColor=red)
+  ![AWS](https://img.shields.io/badge/aws-%23F05033.svg?style=for-the-badge&logo=aws&logoColor=white)
 
 
 - **Softwares and Tools**:
