@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 - 💡 I’m an **Electronics and Communication Engineering** Student 
 - 🔐 I’m currently learning **Machine Learning** & **Cybersecurity** 
-- 💻 I like **Web Deisgn** and **Frontend Development**
+- 💻 I like **IoT**,**Embeded Systems**,**Web Deisgn** and **Frontend Development**
 - 🏎️ I love to make projects which includes **Hardware and Software**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
