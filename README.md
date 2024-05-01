@@ -71,43 +71,6 @@
 
 </p>
 
-<br>
-
-<div align="center">
-  <a href="https://www.python.org" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  </a> 
-  <a href="https://www.w3schools.com/c/index.php" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" style="padding-right: 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/arduino.png" alt="Arduino"/>
-  </a>
-  <a href="https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html" target="_blank" style="padding-right: 10px;">
-    <img src="https://downloadlynet.ir/wp-content/uploads/2020/03/Quartus-Prime-.png" alt="Quartus Prime" width="45" height="45"/>
-  </a> 
-  <a style="padding-right: 10px;">
-    <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
-  </a>
-</div>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
