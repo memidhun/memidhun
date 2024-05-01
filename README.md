@@ -4,7 +4,7 @@
    <a href="#"><img width="auto" height="auto" src="linkdin.png" /> </a>
    
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Midhun </h1>
-  <h3 align="center">I'm an Electronics Engineering student + a Passionate Developer  </h3>
+  <h3 align="center">I'm an Electronics Engineering student and a Passionate Developer  </h3>
 
 ## 🙋‍♂️ About Me
 - 💡 I’m an **Electronics and Communication Engineering** Student 
@@ -69,14 +69,7 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![Chatgpt](https://img.shields.io/badge/Chatgpt-FC624?style=for-the-badge&logo=CHATgpt&logoColor=black)    
 
-</p>
-
-
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-</p>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats : </b>
    <a href="https://github.com/memidhun/github-readme-stats"><img align="center" alt="Midhun's Github Stats"
