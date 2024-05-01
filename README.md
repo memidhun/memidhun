@@ -69,7 +69,7 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=)
     ![Python](https://img.shields.io/badge/Python%20-%23ffd966.svg?style=for-the-badge&logo=python&logoColor=black)
     ![Java](https://img.shields.io/badge/JAVA%20-%234a82e2.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Verilog](https://img.shields.io/badge/Verilog%20HDL-%23ff966.svg?style=for-the-badge&logo=verilog&logoColor=black)
+    ![Verilog](https://img.shields.io/badge/Verilog%20HDL-%23000000.svg?style=for-the-badge&logo=verilog&logoColor=white)
 
 
 - **Front-End Development**
