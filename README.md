@@ -16,7 +16,7 @@
 
 - 👨‍💻 Some of my electronics projects are available at **[My Portfolio](https://memidhun.github.io/)**
 
-- 🎹     **Music Production** is my Hobby
+- 🎹  I do **Music Production** as my Hobby
 
 ## 🚀 Top Languages and Tools:
 
