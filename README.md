@@ -76,7 +76,7 @@
    src="https://github-readme-stats.vercel.app/api?username=memidhun&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
    
    <b>Note:</b> Top languages is only a metric of the languages my public code consist of 
-  <a href="https://github.com/memidhun/github-readme-stats"><img align="center" height=200 alt="Midhun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memidhun&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445"/></a>
+  <a href="https://github.com/memidhun/github-readme-stats"><img align="center" height=200 alt="Midhun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memidhun&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445"/></a>
   
   <br/>
 
