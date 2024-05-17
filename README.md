@@ -11,11 +11,8 @@
 - 🔐 I’m currently learning **Machine Learning** & **Cybersecurity** 
 - 💻 I like **IoT**,**Embeded Systems**,**Web Deisgn** and **Frontend Development**
 - 🏎️ I love to make projects which includes **Hardware and Software**
-
- <!--- 👯 I’m looking to collaborate on **OpenSource Projects**-->
-
+<!--- 👯 I’m looking to collaborate on **OpenSource Projects**-->
 - 👨‍💻 Some of my electronics projects are available at **[My Portfolio](https://memidhun.github.io/)**
-
 - 🎹  I do **Music Production** as my Hobby
 
 ## 🚀 Top Languages and Tools:
