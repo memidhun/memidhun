@@ -55,7 +55,7 @@
 - **Hardware Development Tools** 
 
     ![IntelQuartusPrime](https://img.shields.io/badge/Intel%20Quartus%20Prime-0078d7.svg?style=for-the-badge&logo=intel&logoColor=white)
-    ![Arduino](https://img.shields.io/badge/Arduino%20Programming-0078d7.svg?style=for-the-badge&logo=arduino&logoColor=white)
+    ![Arduino](https://img.shields.io/badge/Arduino-0078d7.svg?style=for-the-badge&logo=arduino&logoColor=white)
     ![Ki-CAD](https://img.shields.io/badge/Ki%20Cad-0078d7.svg?style=for-the-badge&logo=kicad&logoColor=white)
     ![Fusion360](https://img.shields.io/badge/Fusion%20360-0078d7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
     
