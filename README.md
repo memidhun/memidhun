@@ -77,8 +77,8 @@
   
   <br/>
 
-### My Best Projects are still private repos which I can't share for now , Contact me to know more about them
-  ### Fun Fact: I once solved the world's oldest question with a single line of JavaScript 😉
+#### My Best Projects are still private repos , Contact me to know more about them
+### Fun Fact: I once solved the world's oldest question with a single line of JavaScript 😉
 <!-- wi*quL3fcV -->
 
 ```javascript
