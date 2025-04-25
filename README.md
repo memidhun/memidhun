@@ -13,7 +13,7 @@
 - 🏎️ I love to make projects which includes both **Hardware and Software**
 <!--- 👯 I’m looking to collaborate on **OpenSource Projects**-->
 - 👨‍💻 Some of my electronics projects are available at **[My Portfolio](https://memidhun.github.io/Portfolio/)**
-- 🎹  I do **Music Production** as my Hobby
+- 🎹  I play **Piano & Guitar** as my Hobby and can do some music production.
 
 ## 🚀 Top Languages and Tools:
 
