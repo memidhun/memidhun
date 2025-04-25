@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 - 💡 I’m an **Electronics and Communication Engineering** Student 
-- 🔐 I’m currently so much into **Ai & Machine Learning** 
+- 🔐 I’m currently into **Ai & Machine Learning** 
 - 💻 I like **IoT**,**Embeded Systems**,**Web Deisgn** and **Frontend Development**
 - 🏎️ I love to make projects which includes **Hardware and Software**
 <!--- 👯 I’m looking to collaborate on **OpenSource Projects**-->
