@@ -10,7 +10,7 @@
 - 💡 I’m an **Electronics and Communication Engineering** Student 
 - 🔐 I’m currently into **Ai & Machine Learning** 
 - 💻 I like **IoT**,**Embeded Systems**,**Web Deisgn** and **Frontend Development**
-- 🏎️ I love to make projects which includes **Hardware and Software**
+- 🏎️ I love to make projects which includes both **Hardware and Software**
 <!--- 👯 I’m looking to collaborate on **OpenSource Projects**-->
 - 👨‍💻 Some of my electronics projects are available at **[My Portfolio](https://memidhun.github.io/Portfolio/)**
 - 🎹  I do **Music Production** as my Hobby
