@@ -96,6 +96,14 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <a href = "https://www.instagram.com/me_midhun/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
+## ☕ Support Me
+
+If you find my projects helpful, would like to support me ? Consider buying me a coffee! Your support helps maintain and improve my projects.
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/memidhun)
+
+Every coffee helps fuel more features and improvements! 🚀
+
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
