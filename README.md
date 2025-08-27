@@ -12,7 +12,7 @@
 - 💻 I like **IoT**,**Embeded Systems**,**Web Deisgn** and **Frontend Development**
 - 🏎️ I love to make projects which includes both **Hardware and Software**
 <!--- 👯 I’m looking to collaborate on **OpenSource Projects**-->
-- 👨‍💻 Some of my electronics projects are available at **[My Portfolio](https://memidhun.github.io/Portfolio/)**
+- 👨‍💻 Some of my electronics projects are available at **[My Portfolio](https://memidhun.github.io/Porfolio_2/)**
 - 🎹  I play **Piano & Guitar** as my Hobby and can do some music production.
 
 ## 🚀 Top Languages and Tools:
